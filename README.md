@@ -1,10 +1,9 @@
+[TOC]
 # Multi-Modal Mathematical Reasoning Review
 
 **Last Updated:** 17/12/2026
 
 ---
-
-[TOC]
 
 ## 1. Literature Review
 
