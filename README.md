@@ -1,4 +1,22 @@
-[TOC]
+Multi-Modal Mathematical Reasoning Review
+1. Literature Review
+1.1 G-LLaVA
+Core Abstract & Motivation
+Methodology: Data Construction (Geo170K)
+Experimental Setup
+Experimental Results & Analysis
+Conclusion
+1.2 PRIMITIVE
+Core Abstract & Motivation
+Methodology: GeoGLIP & Feature Routing
+Experimental Setup
+Experimental Results & Analysis
+Conclusion
+2. Benchmark Datasets Reference
+MathVista
+MathVerse
+GeoQA / GeoQA+
+Geometry3K
 # Multi-Modal Mathematical Reasoning Review
 
 **Last Updated:** 17/12/2026
